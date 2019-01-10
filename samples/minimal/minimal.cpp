@@ -199,7 +199,7 @@ void MyFrame::OnAbout(wxCommandEvent& WXUNUSED(event))
                     wxVERSION_STRING,
                     wxGetOsDescription()
                  ),
-                 "About wxWidgets minimal sample",
+                 "About wxWidgets minimal sample ZZZ",
                  wxOK | wxICON_INFORMATION,
                  this);
 }
